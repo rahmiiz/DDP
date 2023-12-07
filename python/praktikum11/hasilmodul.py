@@ -1,0 +1,20 @@
+import modul1,modul2
+
+modul1.persegi(10)
+modul1.persegi_panjang(20, 10)
+modul1.segitiga(2,2,1,1,1)
+modul1.jajar_genjang(3,3,2,2,2,2)
+modul1.belah_ketupat(6,6,4,4,4,4)
+modul1.layang_layang(7,7,5,5,5,5)
+modul1.lingkaran(7)
+
+modul2.tambah(2,3)
+modul2.kurang(4,2)
+modul2.kali(2,4)
+modul2.bagi(4,2)
+modul2.pangkat(3,2)
+modul2.akar(4)
+modul2.tan(5)
+modul2.cos(6)
+modul2.log(3)
+modul2.sin(2)
